@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geojson_lapse_rate_20210715T20",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "level": 5.0, "color": "grey", "line_style": "dotted", "line_width": 0.1 }, "geometry": { "type": "LineString", "coordinates": [ [ -79.077054867013118, 48.25 ], [ -79.082657759587562, 48.0 ], [ -79.0, 47.970977470101772 ], [ -78.759826763099966, 48.0 ], [ -78.75, 48.00197945398741 ], [ -78.5, 48.126176229310431 ], [ -78.25, 48.19702488001618 ], [ -78.112063591022434, 48.25 ] ] } }
+]
+}
