@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geojson_tornado_point_20200807T23",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "case": "tornado", "timestamp": "20200807T23" }, "geometry": { "type": "Point", "coordinates": [ -101.0407, 49.7372 ] } }
+]
+}
